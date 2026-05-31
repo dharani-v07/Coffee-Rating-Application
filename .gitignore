@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Database file (generated automatically)
+*.db
+coffee_ratings.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
